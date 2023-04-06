@@ -1,3 +1,9 @@
+
+<div style="display:flex;justify-content:center">
+<img style="height:400px;margin-left:20%" src="https://pbs.twimg.com/media/FpnhDmAaQAAjE-y?format=jpg&name=4096x4096"/>
+</div>
+  
+  
 <h1 align="center">Hi 👋, I'm Gana Yassine</h1>
 <h3 align="center">A passionate developer</h3>
 
