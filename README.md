@@ -1,7 +1,5 @@
 
-<div style="display:flex;justify-content:center">
-<img style="height:400px;margin-left:20%" src="https://pbs.twimg.com/media/FpnhDmAaQAAjE-y?format=jpg&name=4096x4096"/>
-</div>
+<img align="center" style="height:300px;width:1000px" src="https://pbs.twimg.com/media/FpnhDmAaQAAjE-y?format=jpg&name=4096x4096"/>
   
   
 <h1 align="center">Hi 👋, I'm Gana Yassine</h1>
