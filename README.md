@@ -1,5 +1,5 @@
 
-<img align="center" style="height:300px;width:1000px" src="[https://pbs.twimg.com/media/FpnhDmAaQAAjE-y?format=jpg&name=4096x4096](https://media.licdn.com/dms/image/D4E16AQGDQtYTrJ2Jcw/profile-displaybackgroundimage-shrink_350_1400/0/1710577868905?e=1715817600&v=beta&t=iEZ23dm8dpR4LAqMAnzzfDx43DU6vg-1XpZUlLLT33k)"/>
+<img align="center" style="height:300px;width:1000px" src="https://pbs.twimg.com/media/FpnhDmAaQAAjE-y?format=jpg&name=4096x4096](https://media.licdn.com/dms/image/D4E16AQGDQtYTrJ2Jcw/profile-displaybackgroundimage-shrink_350_1400/0/1710577868905?e=1715817600&v=beta&t=iEZ23dm8dpR4LAqMAnzzfDx43DU6vg-1XpZUlLLT33k)"/>
   
   
 <h1 align="center">Hi 👋, I'm Gana Yassine</h1>
