@@ -2,8 +2,8 @@
 <img align="center" style="height:300px;width:1000px" src="https://media.licdn.com/dms/image/D4E16AQGDQtYTrJ2Jcw/profile-displaybackgroundimage-shrink_350_1400/0/1710577868905?e=1715817600&v=beta&t=iEZ23dm8dpR4LAqMAnzzfDx43DU6vg-1XpZUlLLT33k"/>
   
   
-<h1 align="center">Hi 👋, I'm Gana Yassine</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm GANA Yassine</h1>
+<h3 align="center">An enthusiastic  software developer</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/YassGan](https://github.com/YassGan)
