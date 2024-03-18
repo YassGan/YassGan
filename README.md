@@ -1,5 +1,5 @@
 
-<img align="center" style="height:300px;width:1000px" src="https://media.licdn.com/dms/image/D4E16AQGDQtYTrJ2Jcw/profile-displaybackgroundimage-shrink_350_1400/0/1710577868905?e=1715817600&v=beta&t=iEZ23dm8dpR4LAqMAnzzfDx43DU6vg-1XpZUlLLT33k"/>
+<img align="center" style="height:300px;width:1000px" src="https://media.licdn.com/dms/image/D4E16AQHZlc3EzviGow/profile-displaybackgroundimage-shrink_350_1400/0/1710657637769?e=1716422400&v=beta&t=03BcasmW4I_m08gQouTrj5RpiQzAGl7jRjwQSxJv_xI"/>
   
   
 <h1 align="center">Hi 👋, I'm GANA Yassine</h1>
