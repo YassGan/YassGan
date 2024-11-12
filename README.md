@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/free-photo/macro-eye-iris_23-2151618547.jpg?t=st=1731409601~exp=1731413201~hmac=465b1c935c3e11d42e94096a03da7afb23752f5d87bfd93eb90d55ecb9e24386&w=826" alt="Banner Image" width="100%" height="auto"/>
+<img src="https://img.freepik.com/free-photo/macro-eye-iris_23-2151618547.jpg?t=st=1731409601~exp=1731413201~hmac=465b1c935c3e11d42e94096a03da7afb23752f5d87bfd93eb90d55ecb9e24386&w=826" alt="Banner Image" width="100%" height="50%"/>
 
 
 <h1 align="center">Hi 👋, I'm GANA Yassine</h1>
