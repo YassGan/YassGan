@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Computer Vision topics**
 - 🌱 I’m currently learning **TensorFlow, OpenCV**
 - 📫 How to reach me **yassinegana.gana@gmail.com**
+- 🌐 Personal website **https://yassinegana-personal-website.vercel.app/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
